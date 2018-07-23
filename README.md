@@ -23,10 +23,18 @@ int nOcorrencias(int[] l, Integer el)
          boolean hasRepeat(int[] l)
          ```
    1. Método que retorna o número de elementos repetidos em l
-int nroRepeat(int[] l)
+         ```java
+         int nroRepeat(int[] l)
+         ```
    1. Método que retorna uma lista de elementos repetidos de l
-int[] listRepeat(int[] l)
+         ```java
+         int[] listRepeat(int[] l)
+         ```
    1. Método que retorna a união de l1 e l2
-int[] union(int[] l1, int[] l2)
+         ```java
+         int[] union(int[] l1, int[] l2)
+         ```
    1. Método que retorna a intersecção de l1 e l2
-int[] intersect(int[] l1, int[] l2)
+         ```java
+         int[] intersect(int[] l1, int[] l2)
+         ```
