@@ -46,9 +46,8 @@ nosso ambiente de trabalho (Git-Github-Github classroom).
    informe seu nome, cpf, idade e gênero. A qualquer momento, ele deseja ser capaz de consultar quem
    são as pessoas que estão no bar, se alguém com um determinado CPF está no bar, quantas são as
    pessoas e qual a distribuição por gênero (percentual de clientes masculinos e femininos). Ao
-   sair, o cliente deve informar seu CPF, para registrar sua saída.
-
-   Modele este sistema (defina classes, com seus atributos e métodos) e implemente-o.
+   sair, o cliente deve informar seu CPF, para registrar sua saída. Modele este sistema 
+   (defina classes, com seus atributos e métodos) e implemente-o.
    
  1. Transporte seu trabalho final de Alpro I do BlueJ para o Eclipse/Netbeans/IntelliJ. Coloque seu
    projeto sob controle de versão, ou seja, coloque o seu projeto no Git, e depois no Github.
