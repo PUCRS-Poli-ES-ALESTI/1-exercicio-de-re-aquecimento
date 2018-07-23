@@ -19,9 +19,9 @@ todos os primos entre estes números.
 lista
 int nOcorrencias(int[] l, Integer el)
    1. Método que retorna true se l tem elementos repetidos
-   ```java
-   boolean hasRepeat(int[] l)
-   ```
+         ```java
+         boolean hasRepeat(int[] l)
+         ```
    1. Método que retorna o número de elementos repetidos em l
 int nroRepeat(int[] l)
    1. Método que retorna uma lista de elementos repetidos de l
