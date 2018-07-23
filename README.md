@@ -48,4 +48,7 @@ nosso ambiente de trabalho (Git-Github-Github classroom).
    pessoas e qual a distribuição por gênero (percentual de clientes masculinos e femininos). Ao
    sair, o cliente deve informar seu CPF, para registrar sua saída.
 
-    Modele este sistema (defina classes, com seus atributos e métodos) e implemente-o.
+   Modele este sistema (defina classes, com seus atributos e métodos) e implemente-o.
+   
+ 1. Transporte seu trabalho final de Alpro I do BlueJ para o Eclipse/Netbeans/IntelliJ. Coloque seu
+   projeto sob controle de versão, ou seja, coloque o seu projeto no Git, e depois no Github.
