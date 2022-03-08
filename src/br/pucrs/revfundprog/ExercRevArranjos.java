@@ -2,7 +2,7 @@ package br.pucrs.revfundprog;
 
 import java.util.*;
 
-public class ExercRevisaoArranjos {
+public class ExercRevArranjos {
 	public int nOcorrencias(int[] al, int el) {
 		int res = 0;
 
