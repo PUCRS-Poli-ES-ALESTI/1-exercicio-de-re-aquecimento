@@ -1,4 +1,4 @@
-# Exercício de Re-aquecimento - ALAV - Projeto e Otimização de Algortimos
+# Exercício de Re-aquecimento - ALESTI
 
 Vamos fazer alguns exercícios de programação, para re-lembrar Java
 e programação básica. Além disto, é uma oportunidade para utilizarmos
